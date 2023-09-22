@@ -2,7 +2,6 @@
 using System;
 using Tyuiu.___YOURNAME___.Sprint1.Task3.V14.Lib;
 
-
 namespace Tyuiu.___YOURNAME___.Sprint1.Task3.V14.Test
 {
     [TestClass]
